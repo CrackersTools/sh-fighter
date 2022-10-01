@@ -1,12 +1,12 @@
 [
 {
      "HERO": "Alucard", 
-     "JPG": ""
+     "JPG": "https://raw.githubusercontent.com/CrackersTools/imgskin/main/Hero071-portrait.png"
 } , {
      "HERO": "Aldous", 
-     "JPG": ""
+     "JPG": "https://raw.githubusercontent.com/CrackersTools/imgskin/main/Hero641-portrait.png"
 } , {
      "HERO": "Argus", 
-     "JPG": ""
+     "JPG": "https://raw.githubusercontent.com/CrackersTools/imgskin/main/Hero451-portrait.png"
 }
 ]
